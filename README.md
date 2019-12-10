@@ -51,3 +51,4 @@ This workshop material covers the basics of LaTeX, it intends to cover all the u
 
 - Create repository;
 - Add README;
+- Add [Material](/tree/master/material);
