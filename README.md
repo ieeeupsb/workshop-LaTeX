@@ -40,7 +40,7 @@ This workshop material covers the basics of LaTeX, it intends to cover all the u
 
 ## Authors
 
-- **Diogo Martins** : Github (@diogomartins96)
+- **Diogo Martins** : [GitHub](https://github.com/diogomartins96)
 - **Tiago Santos** : Github (@)
 - **Afonso Ramos** : Github (@afonsojramos) 
 - **Inês Trigo** : Github (@iitriigo)
