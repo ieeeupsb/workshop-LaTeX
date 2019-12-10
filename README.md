@@ -4,8 +4,6 @@ This repository contains the presentation and exercises for the LaTeX workshop, 
 
 ## Workshop Content
 
-In the repository code you can find the presentation, developed using [Remark](https://remarkjs.com). It is a slideshow tool where each slide content is written in Markdown, and the presentation style can be customized through CSS.
-
 The presentation is hosted on: 
 
 The exercises and setup instructions are available on:
@@ -25,28 +23,31 @@ This workshop material covers the basics of LaTeX, it intends to cover all the u
 		- Type of document;
 		- Packages.
 	- Body.
-- Special Characters and Symbols;
-- Spaces and new lines;
-- Text Decorations and Display Style;
-- Sections, Subsections, Chapters, Index, etc;
-- Add:
-	- Images/Figures;
-	- Tables;
-	- Grhaphics;
-	- Equations;
-	- Lists.
+
+- Body:
+	- Special Characters and Symbols;
+	- Spaces and new lines;
+	- Text Decorations and Display Style;
+	- Comments and Delimiters;
+	- Sections, Subsections, Chapters, Index, etc;
+	- Add:
+		- Images/Figures;
+		- Tables;
+		- Grhaphics;
+		- Equations;
+		- Lists.
+- Other useful features.
+
 ## Authors
 
-- **Fábio Gaspar** : Github (@fabiodrg666) | Twitter (@fabiodrg666) | [LinkedIn](https://www.linkedin.com/in/fabiodr-gaspar/)
+- **Diogo Martins** : Github (@diogomartins96)
+- **Tiago Santos** : Github (@)
+- **Afonso Ramos** : Github (@afonsojramos) 
+- **Inês Trigo** : Github (@iitriigo)
 
 ## Revision history
 
-### 21st March 2018
+### 10th December 2019
 
-- Initial presentation and Wiki
-
-### 22nd March 2019
-
-- Moved from PowerPoint presentation to Remark (Markdown is love :heart:)
-- Enhanced diagrams in the presentation
-- More detailed and clear explanation of how local and remote repositories work
+- Create repository;
+- Add README;
