@@ -43,7 +43,7 @@ This workshop material covers the basics of LaTeX, it intends to cover all the u
 - **Diogo Martins** : [GitHub](https://github.com/diogomartins96) | [LinkedIn](https://www.linkedin.com/in/diogocostamartins/)
 - **Tiago Santos** : [GitHub](https://github.com/diogomartins96) | [LinkedIn](https://www.linkedin.com/in/tiago-santos-developer/)
 - **Afonso Ramos** : [GitHub](https://github.com/afonsojramos) | [LinkedIn](https://www.linkedin.com/in/afonsojramos/)
-- **Inês Trigo** : [GitHub](https://github.com/iitriigo) |[LinkedIn](https://www.linkedin.com/in/in%C3%AAs-trigo-alves-b08611173/)
+- **Inês Trigo** : [GitHub](https://github.com/iitriigo) | [LinkedIn](https://www.linkedin.com/in/in%C3%AAs-trigo-alves-b08611173/)
 
 ## Revision history
 
