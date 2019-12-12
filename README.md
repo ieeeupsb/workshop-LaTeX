@@ -55,4 +55,4 @@ This workshop material covers the basics of LaTeX, it intends to cover all the u
 
 ### 12th December 2019
 
-- Add [Templates](https://github.com/ieeeupsb/workshop-LaTeX/tree/master/templates);
+- Add [Template](https://github.com/ieeeupsb/workshop-LaTeX/tree/master/template);
