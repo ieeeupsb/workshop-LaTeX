@@ -52,3 +52,7 @@ This workshop material covers the basics of LaTeX, it intends to cover all the u
 - Create repository;
 - Add README;
 - Add [Material](https://github.com/ieeeupsb/workshop-LaTeX/tree/master/material);
+
+### 12th December 2019
+
+- Add [Templates](https://github.com/ieeeupsb/workshop-LaTeX/tree/master/templates);
