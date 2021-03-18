@@ -56,3 +56,11 @@ This workshop material covers the basics of LaTeX, it intends to cover all the u
 ### 12th December 2019
 
 - Add [Template](https://github.com/ieeeupsb/workshop-LaTeX/tree/master/template);
+
+
+### 12th March 2021
+
+- Update documentation: 
+- Add [Further Reading](https://github.com/ieeeupsb/workshop-LaTeX/tree/master/Further%20Reading);
+- Change material to Solution [Solution](https://github.com/ieeeupsb/workshop-LaTeX/tree/master/Solution);
+- Update Template folder [Template](https://github.com/ieeeupsb/workshop-LaTeX/tree/master/template);
